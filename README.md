@@ -1,4 +1,4 @@
-gg
+g
 
 <h1 align="center">Hi 👋, I'm Edilbert Crist Jaguimit</h1>
 <h3 align="center">An aspiring Web Developer and Software Engineer from the Philippines</h3>

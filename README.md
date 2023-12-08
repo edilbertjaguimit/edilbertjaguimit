@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-
 
 <h1 align="center">Hi 👋, I'm Edilbert Crist Jaguimit</h1>
 <h3 align="center">Aspiring Web Developer and Software Engineer from the Philippines</h3>

@@ -1,4 +1,4 @@
-![MasterHead](httimages.githubusercontent.com/74
+![MasterHead](httimages.githubuse
 
 <h1 align="center">Hi 👋, I'm Edilbert Crist Jaguimit</h1>
 <h3 align="center">Aspiring Web Developer and Software Engineer from the Philippines</h3>

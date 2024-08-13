@@ -15,7 +15,7 @@ Hi 👋, I'm Edilbert Crist Jaguimit<br>Aspiring Web Developer and Software Engi
 
 # 🏆 Achievements:
 
-- Cebu Interschool Hackathon 2024 By CIB.O, 3rd Placer
+- 3rd Place in Cebu Interschool Hackathon 2024 By CIB.O
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=edilbertjaguimit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>

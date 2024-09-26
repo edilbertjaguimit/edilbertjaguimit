@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Web Developer from the Philippines</h3>
 <!--
 # 💫 About Me:
-Hi 👋, I'm Edilbert Crist Jaguimit<br>Aspiring Web Developer and Software Engineer from the Philippines<br> -->
+Hi 👋, I'm Edilbert Crist Jaguimit<br>Aspiring Web Developer from the Philippines<br> -->
 
 
 ## 🌐 Socials:

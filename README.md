@@ -15,7 +15,7 @@ Hi 👋, I'm Edilbert Crist Jaguimit<br>Aspiring Web Developer from the Philippi
 
 # 🏆 Achievement:
 
-- Philippine Startup Challenge 9 - Top 25 Region 7 Finalist
+- Top 25 Region 7 Finalist - Philippine Startup Challenge 9
 - 3rd Place in Cebu Interschool Hackathon 2024 By CIB.O
 
 # 📊 GitHub Stats:
